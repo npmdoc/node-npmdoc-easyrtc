@@ -1,4 +1,7 @@
-# api documentation for  [easyrtc (v1.1.0)](http://www.easyrtc.com/)  [![npm package](https://img.shields.io/npm/v/npmdoc-easyrtc.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-easyrtc) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-easyrtc.svg)](https://travis-ci.org/npmdoc/node-npmdoc-easyrtc)
+# npmdoc-easyrtc
+
+#### basic api documentation for  [easyrtc (v1.1.0)](http://www.easyrtc.com/)  [![npm package](https://img.shields.io/npm/v/npmdoc-easyrtc.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-easyrtc) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-easyrtc.svg)](https://travis-ci.org/npmdoc/node-npmdoc-easyrtc)
+
 #### EasyRTC enables quick development of webRTC
 
 [![NPM](https://nodei.co/npm/easyrtc.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/easyrtc)
@@ -109,7 +112,8 @@
         "url": "git+https://github.com/priologic/easyrtc.git"
     },
     "scripts": {},
-    "version": "1.1.0"
+    "version": "1.1.0",
+    "bin": {}
 }
 ```
 
